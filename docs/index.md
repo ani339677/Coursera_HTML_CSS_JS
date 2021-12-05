@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Coursera
 
 You can use the [editor on GitHub](https://github.com/ani339677/Coursera_HTML_CSS_JS/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
