@@ -53,7 +53,7 @@ h3{
 div.lorem_text{
   padding-bottom: 30px;
 }
-@media (min-width:576px) {
+@media (min-width:768px) {
   .lg_nottoshow{
     visibility:hidden;
   } 
