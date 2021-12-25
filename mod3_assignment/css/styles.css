@@ -1,0 +1,60 @@
+a.navbar-brand{
+  padding:1.5em;
+  font-size: 1.5em;
+  font-weight: 700;
+}
+nav.navbar,div.container-fluid{
+  background-color: blueviolet !important;
+  padding-left: 0;
+  padding-right: 0;
+  padding: 0;
+}
+button.navbar-toggler{
+  color: lightskyblue !important;
+  margin: 1.5em;
+}
+div#collapsable-menu{
+  color: black;
+  margin:0;
+}
+div#collapsable-menu ul li{
+  text-align: center;
+  color: blueviolet;
+  background-color: lightskyblue;
+  width:100%;
+  border: 1px solid blueviolet;
+  border-collapse: collapse;
+}
+div#collapsable-menu ul li a{
+  color: blueviolet;
+  font-weight: 500;
+}
+div#collapsable-menu ul{
+  margin-bottom: 0 !important;
+}
+h1.text-center{
+  padding: 15px;
+  padding-bottom: 40px;
+  color: blueviolet;
+}
+div.main-content{
+  background-color: lightskyblue;
+  padding: 20px;
+  text-align: justify;
+  color:darkblue;
+  margin: 10px;
+}
+.wrap-div{
+  margin: 1.5em;
+}
+h3{
+  color:darkmagenta;
+}
+div.lorem_text{
+  padding-bottom: 30px;
+}
+@media (min-width:576px) {
+  .lg_nottoshow{
+    visibility:hidden;
+  } 
+}

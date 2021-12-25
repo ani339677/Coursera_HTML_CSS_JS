@@ -7,7 +7,7 @@ h1{
     font-size: 1.75em;
 }
 .bbox{
-    padding: 5px;
+    padding: 10px;
 }
 .box{
     background-color: rgba(10, 195, 118, 0.753);
@@ -18,7 +18,7 @@ h1{
     border:1px solid black;
     border-right-width:0px;
     border-top-width:0px;
-    padding:5px;
+    padding:10px;
     float:right;
     position: relative;
     top: 0px;
@@ -37,7 +37,7 @@ h1{
 .cont{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 1em;
-    padding: 10px;
+    padding: 20px;
     position: relative;
     clear:both;
 }
