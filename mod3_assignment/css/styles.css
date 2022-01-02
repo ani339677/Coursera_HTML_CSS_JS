@@ -1,7 +1,7 @@
 a.navbar-brand{
-  padding:1.5em;
-  font-size: 1.5em;
-  font-weight: 700;
+  padding:1em;
+  font-size: 1.75em;
+  font-weight: 600;
 }
 nav.navbar,div.container-fluid{
   background-color: blueviolet !important;
@@ -11,7 +11,7 @@ nav.navbar,div.container-fluid{
 }
 button.navbar-toggler{
   color: lightskyblue !important;
-  margin: 1.5em;
+  margin: 1em;
 }
 div#collapsable-menu{
   color: black;
