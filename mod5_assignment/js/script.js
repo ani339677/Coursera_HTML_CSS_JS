@@ -166,7 +166,7 @@ function buildAndShowCategoriesHTML (categories) {
     function (categoriesTitleHtml) {
       // Retrieve single category snippet
       $ajaxUtils.sendGetRequest(
-        categoryHtml,
+        "snippets/category-snippet.html",
         function (categoryHtml) {
           // Switch CSS class active to menu button
           switchMenuToActive();
